@@ -1,6 +1,9 @@
-**FocusWriter 사용 설명서**
+
+**![FocusWriter 로고](https://gottcode.org/focuswriter/icon48.png)FocusWriter 사용 설명서**
 ============================
-[FocusWriter git hub URL](https://github.com/gottcode/focuswriter.git)
+[FocusWriter git hub URL](https://github.com/gottcode/focuswriter.git)  
+[다운로드](https://gottcode.org/focuswriter/)
+
 
 1.선정 이유 
 ------------------

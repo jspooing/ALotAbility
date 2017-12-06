@@ -5,7 +5,10 @@
 [다운로드 링크](https://gottcode.org/focuswriter/)
 
 
+
 ## 1. 프로그램 선정 이유 
+
+
 
 * 오픈 소스 관련 소프트웨어를 찾던 중 매력적인 소프트 웨어라고 생각 함.
 * Github에 프로그램 소스가 올라와 있어 소스에 접근하기 용이함. 
@@ -15,6 +18,7 @@
 
 -----------------------------
 
+
 ## 2. 프로그램 소개 
 
 ### 설치법
@@ -23,6 +27,7 @@
 * **Windows**
 
     [FocusWriter 사이트](https://gottcode.org/focuswriter/)에서 운영체제 Windows를 선택한 후 Download 버튼을 누른다.
+
  
 * **Linux**
  
@@ -30,7 +35,9 @@
 
 	   `sudo add-apt-repository ppa:gottcode/gcppa`
    
+
 	![ppa추가](http://ubuntuhandbook.org/wp-content/uploads/2017/12/mame-ppa-600x73.jpg)
+
  2.  Software Updater 를 실행한 후 FocusWriter에 체크를 한 후 Install을 한다.
 
 		![Software Updater](http://ubuntuhandbook.org/wp-content/uploads/2016/08/upgrade-focuswriter.jpg)
@@ -39,9 +46,9 @@
 		
 		`sudo apt update && sudo apt install focuswriter`
 
-----------------------------------
 
 
 ## 3. 기능 설명 
 
 ## 4. 개선점 
+

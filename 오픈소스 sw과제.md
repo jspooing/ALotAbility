@@ -4,16 +4,8 @@
 [FocusWriter Github URL](https://github.com/gottcode/focuswriter.git)  
 
 
-<<<<<<< HEAD
-
-## 1. 프로그램 선정 이유 
-
-
-
-=======
 **1. 프로그램 선정 이유** 
 ------------------
->>>>>>> 6d2c75e023de21ca45450ba473ce5be8f1751e8d
 * 오픈 소스 관련 소프트웨어를 찾던 중 매력적인 소프트 웨어라고 생각 함.
 * Github에 프로그램 소스가 올라와 있어 소스에 접근하기 용이함. 
 * 프로그램 언어가 C++로 되어있어 이해 하기 쉬움.
@@ -22,26 +14,16 @@
 
 -----------------------------
 
-<<<<<<< HEAD
-=======
-**2. 프로그램 소개** 
-------------------- 
->>>>>>> 6d2c75e023de21ca45450ba473ce5be8f1751e8d
-
 ## 2. 프로그램 소개 
 
-### 설치법
-
+*설치법*
+----
 
 * **Windows**
 
-<<<<<<< HEAD
     [FocusWriter 사이트](https://gottcode.org/focuswriter/)에서 운영체제 Windows를 선택한 후 Download 버튼을 누른다.
 
-=======
-[FocusWriter 사이트](https://gottcode.org/focuswriter/)에서 운영체제 Windows를 선택한 후 Download 버튼을 누른다.
->>>>>>> 6d2c75e023de21ca45450ba473ce5be8f1751e8d
- 
+
 * **Linux**
  
  1. 터미널을 열어서 (Ctrl+Alt+T) PPA:를 추가한다.

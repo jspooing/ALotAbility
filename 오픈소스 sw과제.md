@@ -17,8 +17,8 @@
 
 ##2. 프로그램 소개 
 
-*설치법*
------
+###설치법
+
 
 * **Windows**
 
@@ -30,8 +30,7 @@
 
 	   `sudo add-apt-repository ppa:gottcode/gcppa`
    
-		![PPA:추가](http://ubuntuhandbook.org/wp-content/uploads/2017/12/mame-ppa-600x73.jpg)
-
+		![ppa추가](http://ubuntuhandbook.org/wp-content/uploads/2017/12/mame-ppa-600x73.jpg)
  2.  Software Updater 를 실행한 후 FocusWriter에 체크를 한 후 Install을 한다.
 
 		![Software Updater](http://ubuntuhandbook.org/wp-content/uploads/2016/08/upgrade-focuswriter.jpg)
@@ -44,6 +43,5 @@
 
 
 ## 3. 기능 설명 
-
 
 ## 4. 개선점 

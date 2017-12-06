@@ -22,7 +22,7 @@
 
 * **Windows**
 
- [FocusWriter 사이트](https://gottcode.org/focuswriter/)에서 운영체제 Windows를 선택한 후 Download 버튼을 누른다.
+    [FocusWriter 사이트](https://gottcode.org/focuswriter/)에서 운영체제 Windows를 선택한 후 Download 버튼을 누른다.
  
 * **Linux**
  

@@ -62,5 +62,38 @@ basic ODT = OpenDocument Text
 
 ## 3. **기능 설명** 
 
+
+FocusWriter는 아주 심플하면서 필요한 기능들이 있는데 그 중에서 이용자들이 FocusWriter를 선택하게 만든 첫번째 이유는 바로 테마 스킨(Skin)!!
+
+* **기본 스킨**
+	![기본 스킨](http://files.idg.co.kr/itworld/image/2015/02/00_focuswriter-100565547-orig.jpg)
+
+* **올드스쿨 스킨**
+	![올드스쿨 스킨](https://gottcode.org/focuswriter/screenshots/focuswriter_retro.png)
+
+* **여러 다양한 스킨**
+	![다양한 스킨](https://www.howtoforge.com/images/linux-focuswriter/focuswriter-themes.jpg)
+
+이처럼 다양한 테마 스킨을 제공하고 있는데, 테마 스킨을 변경하는 방법은 간단하다.
+
+
+
+TXT, RTF, ODT 파일 지원
+타이머 & 알람
+목표 설정
+테마 커스터마이징
+타이핑 사운드 설정!
+지능형 따옴표
+오토세이브 자동저장 기능
+Live statistics (이게 뭔지 모르겠어요)
+스펠링 체킹(맞춤법 기능 – 한국어는 안될듯?) 
+다중문서 관리
+세션
+포터블 모드
+20여개국 언어 지원
+모든 플랫폼 지원(윈도우,맥용Osx,리눅스)
+
+
+
 ## 4. **개선점**
 

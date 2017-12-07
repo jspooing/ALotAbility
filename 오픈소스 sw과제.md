@@ -24,8 +24,8 @@
 
 지원되는 파일 형식은 TXT,basic RTF,basic ODT  입니다.
 
->TXT = plain text
-basic RTF = Rich Text File
+>TXT = plain text  
+basic RTF = Rich Text File  
 basic ODT = OpenDocument Text 
 
 

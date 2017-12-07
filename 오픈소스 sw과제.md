@@ -68,6 +68,7 @@ basic ODT = OpenDocument Text
 * **테마 변경 법**  
 	설정탭에서 테마를 누르면 선택창에서 간단하게 바꿀 수 있다.  
 	![테마 변경 법](http://imageshack.com/a/img924/286/gdXe6V.png)  
+	
 	--------
 
 

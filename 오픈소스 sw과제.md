@@ -85,7 +85,21 @@ FocusWriter는 아주 심플하면서 필요한 기능들이 있는데 그 중�
 --------------------------------------
 ### *타이머 & 알람*
 
+ FocusWriter에는 타이머와 알람기능이 있어 글쓰기 스케줄 관리에 도움을 주며 시간을 정하여 글쓰기에 집중을 할 수 있습니다.  
+ 
+ ![타이머](http://cdn.appstorm.net/windows.appstorm.net/authors/jebakumargodwin/settimer.jpg) 
 
+타이머는 두 가지 모드가 있습니다.   
+
+>지연 시간 설정 - 몇 분 뒤에 알람을 알릴지 설정
+시간 설정 - 지정한 시간에 알람을 알리도록 설정  
+
+
+
+![알람](http://cdn.appstorm.net/windows.appstorm.net/authors/jebakumargodwin/alarmdet.jpg)
+알람은 소리로 울리지는 않고 창 오른쪽 아래에 메시지 상자가 나타나는 방식입니다.
+
+-----------------------------------------
 TXT, RTF, ODT 파일 지원
 
 목표 설정

@@ -1,4 +1,3 @@
-
 **![FocusWriter 로고](https://gottcode.org/focuswriter/icon48.png)FocusWriter 사용 설명서**
 ============================
 [FocusWriter Github URL](https://github.com/gottcode/focuswriter.git)  
@@ -64,13 +63,13 @@ basic ODT = OpenDocument Text
 
 ### *스킨 변경 기능* 
 
-FocusWriter는 아주 심플하면서 필요한 기능들이 있는데 그 중에서 이용자들이 FocusWriter를 선택하게 만든 첫번째 이유는 바로 테마 스킨(Skin)!!
+ FocusWriter의 아주 심플한 기능중에서 이용자들이 FocusWriter를 선택하게 만든 첫번째 이유는 바로 테마 스킨(Skin)!!  
 
 * **테마 변경 법**
-	![테마 변경 법](http://imageshack.com/a/img924/286/gdXe6V.png)
-	설정탭에서 테마를 누르면 선택창에서 간단하게 바꿀 수 있다.
-	
+	>설정탭에서 테마를 누르면 선택창에서 간단하게 바꿀 수 있다.
+	![테마 변경 법](http://imageshack.com/a/img924/286/gdXe6V.png)  
 --------
+
 
 * **기본 스킨**
 	![기본 스킨](http://files.idg.co.kr/itworld/image/2015/02/00_focuswriter-100565547-orig.jpg)  
@@ -101,6 +100,7 @@ FocusWriter는 아주 심플하면서 필요한 기능들이 있는데 그 중�
 알람은 소리로 울리지는 않고 창 오른쪽 아래에 메시지 상자가 나타나는 방식입니다.
 
 -----------------------------------------
+
 ### *전체화면 모드*
 
 FocusWriter프로그램기능을 제대로 활용 하기 위해서는 전체화면 모드가 필요하다.  
@@ -126,11 +126,7 @@ Mac OS X: 설정 > 전체 화면
 * 다국어 메뉴(20개 언어 이상)
 * 모든 플랫폼 지원(윈도우,맥용Osx,리눅스)
 
-
 ------------------------------------------------------------------
 
 ## 4. **개선점**
-
-
-
 

@@ -58,10 +58,11 @@ basic ODT = OpenDocument Text
 		
 		`sudo apt update && sudo apt install focuswriter`
 
-
+---------------------------------------
 
 ## 3. **기능 설명** 
 
+### *스킨 변경 기능* 
 
 FocusWriter는 아주 심플하면서 필요한 기능들이 있는데 그 중에서 이용자들이 FocusWriter를 선택하게 만든 첫번째 이유는 바로 테마 스킨(Skin)!!
 
@@ -74,12 +75,14 @@ FocusWriter는 아주 심플하면서 필요한 기능들이 있는데 그 중�
 * **여러 다양한 스킨**
 	![다양한 스킨](https://www.howtoforge.com/images/linux-focuswriter/focuswriter-themes.jpg)
 
-이처럼 다양한 테마 스킨을 제공하고 있는데, 테마 스킨을 변경하는 방법은 간단하다.
+이처럼 다양한 테마 스킨을 제공하고 있는데, 테마 스킨을 변경하는 방법은 간단하다.  
 
+--------------------------------------
+### *타이머 & 알람*
 
 
 TXT, RTF, ODT 파일 지원
-타이머 & 알람
+
 목표 설정
 테마 커스터마이징
 타이핑 사운드 설정!

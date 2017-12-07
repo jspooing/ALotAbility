@@ -65,10 +65,9 @@ basic ODT = OpenDocument Text
 
  FocusWriter의 아주 심플한 기능중에서 이용자들이 FocusWriter를 선택하게 만든 첫번째 이유는 바로 테마 스킨(Skin)!!  
 
-* **테마 변경 법**
-설정탭에서 테마를 누르면 선택창에서 간단하게 바꿀 수 있다.  
-
-![테마 변경 법](http://imageshack.com/a/img924/286/gdXe6V.png)  
+* **테마 변경 법**  
+	설정탭에서 테마를 누르면 선택창에서 간단하게 바꿀 수 있다.  
+	![테마 변경 법](http://imageshack.com/a/img924/286/gdXe6V.png)  
 --------
 
 

@@ -71,15 +71,14 @@ basic ODT = OpenDocument Text
 --------
 
 
-* **기본 스킨**
+* **기본 스킨**  
 	![기본 스킨](http://files.idg.co.kr/itworld/image/2015/02/00_focuswriter-100565547-orig.jpg)  
 
-* **올드스쿨 스킨**
+* **올드스쿨 스킨**  
 	![올드스쿨 스킨](https://gottcode.org/focuswriter/screenshots/focuswriter_retro.png)  
 
-* **여러 다양한 스킨**
+* **여러 다양한 스킨**  
 	![다양한 스킨](https://www.howtoforge.com/images/linux-focuswriter/focuswriter-themes.jpg)  
-
 
 --------------------------------------
 ### *타이머 & 알람*

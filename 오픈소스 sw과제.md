@@ -70,13 +70,14 @@ basic ODT = OpenDocument Text
 	![테마 변경 법](http://imageshack.com/a/img924/286/gdXe6V.png)  
 --------
 
-* **기본 스킨**  
+
+* **기본 스킨**
 	![기본 스킨](http://files.idg.co.kr/itworld/image/2015/02/00_focuswriter-100565547-orig.jpg)  
 
-* **올드스쿨 스킨**  
+* **올드스쿨 스킨**
 	![올드스쿨 스킨](https://gottcode.org/focuswriter/screenshots/focuswriter_retro.png)  
 
-* **여러 다양한 스킨**  
+* **여러 다양한 스킨**
 	![다양한 스킨](https://www.howtoforge.com/images/linux-focuswriter/focuswriter-themes.jpg)  
 
 
@@ -89,31 +90,43 @@ basic ODT = OpenDocument Text
 
 타이머는 두 가지 모드가 있습니다.   
 
->지연 시간 설정 - 몇 분 뒤에 알람을 알릴지 설정
+>지연 시간 설정 - 몇 분 뒤에 알람을 알릴지 설정  
 시간 설정 - 지정한 시간에 알람을 알리도록 설정  
 
 
 
-![알람](http://cdn.appstorm.net/windows.appstorm.net/authors/jebakumargodwin/alarmdet.jpg)
+![알람](http://cdn.appstorm.net/windows.appstorm.net/authors/jebakumargodwin/alarmdet.jpg)  
+
 알람은 소리로 울리지는 않고 창 오른쪽 아래에 메시지 상자가 나타나는 방식입니다.
 
 -----------------------------------------
-TXT, RTF, ODT 파일 지원
 
-목표 설정
-테마 커스터마이징
-타이핑 사운드 설정!
-지능형 따옴표
-오토세이브 자동저장 기능
-Live statistics (이게 뭔지 모르겠어요)
-스펠링 체킹(맞춤법 기능 – 한국어는 안될듯?) 
-다중문서 관리
-세션
-포터블 모드
-20여개국 언어 지원
-모든 플랫폼 지원(윈도우,맥용Osx,리눅스)
+### *전체화면 모드*
 
+FocusWriter프로그램기능을 제대로 활용 하기 위해서는 전체화면 모드가 필요하다.  
+아래와 같은 방법으로 전체화면 모드를 설정 할 수 있다. 
 
+>Windows: F11 또는 설정 > 전체 화면  
+Mac OS X: 설정 > 전체 화면
+
+전체화면 모드를 실행하면 화면에 메뉴와 방해 요소가 모두 제거 되고 종이와 깜빡이는 커서만 남아 있게 된다. 이제 집중해서 글만 작성 하면 된다.
+ --------------------------
+* TXT, 기본 RTF, 기본 ODT 파일 형식 지원
+* 하루 작업 목표 설정 기능
+* 스펠링 체킹(맞춤법 기능 – 한국어는 안될듯?) 
+* 다양한 테마
+* 타자기 소리(옵션)
+* 자동 저장(옵션)
+* 작업 통계(옵션)
+* 맞춤법 검사(옵션)
+* 여러 문서 편집 가능
+* 세션 관리
+* 지능형 따옴표
+* 포터블(무설치) 모드(옵션)
+* 다국어 메뉴(20개 언어 이상)
+* 모든 플랫폼 지원(윈도우,맥용Osx,리눅스)
+
+------------------------------------------------------------------
 
 ## 4. **개선점**
 

@@ -1,4 +1,4 @@
-
+﻿
 **![FocusWriter 로고](https://gottcode.org/focuswriter/icon48.png)FocusWriter 사용 설명서**
 ============================
 [FocusWriter Github URL](https://github.com/gottcode/focuswriter.git)  
@@ -64,7 +64,7 @@ basic ODT = OpenDocument Text
 
 ### *스킨 변경 기능* 
 
-#### FocusWriter의 아주 심플한 기능중에서 이용자들이 FocusWriter를 선택하게 만든 첫번째 이유는 바로 테마 스킨(Skin)!!  
+ FocusWriter의 아주 심플한 기능중에서 이용자들이 FocusWriter를 선택하게 만든 첫번째 이유는 바로 테마 스킨(Skin)!!  
 
 * **테마 변경 법**
 	![테마 변경 법](http://imageshack.com/a/img924/286/gdXe6V.png)  
@@ -100,28 +100,22 @@ basic ODT = OpenDocument Text
 알람은 소리로 울리지는 않고 창 오른쪽 아래에 메시지 상자가 나타나는 방식입니다.
 
 -----------------------------------------
+TXT, RTF, ODT 파일 지원
 
-
-* TXT, 기본 RTF, 기본 ODT 파일 형식 지원
-* 하루 작업 목표 설정 기능
-* 스펠링 체킹(맞춤법 기능 – 한국어는 안될듯?) 
-* 다양한 테마
-* 타자기 소리(옵션)
-* 자동 저장(옵션)
-* 작업 통계(옵션)
-* 맞춤법 검사(옵션)
-* 여러 문서 편집 가능
-* 세션 관리
-* 지능형 따옴표
-* 포터블(무설치) 모드(옵션)
-* 다국어 메뉴(20개 언어 이상)
-* 모든 플랫폼 지원(윈도우,맥용Osx,리눅스)
-
+목표 설정
+테마 커스터마이징
+타이핑 사운드 설정!
+지능형 따옴표
+오토세이브 자동저장 기능
+Live statistics (이게 뭔지 모르겠어요)
+스펠링 체킹(맞춤법 기능 – 한국어는 안될듯?) 
+다중문서 관리
+세션
+포터블 모드
+20여개국 언어 지원
+모든 플랫폼 지원(윈도우,맥용Osx,리눅스)
 
 
 
 ## 4. **개선점**
-
-
-
 

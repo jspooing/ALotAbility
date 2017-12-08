@@ -149,15 +149,9 @@ docx: MS Word 파일
 ![enter image description here](http://postfiles6.naver.net/MjAxNzEyMDhfMjc1/MDAxNTEyNjc0MzIxMDAw.nnQKTNSuUR9Mg4jwc241-CZRkmCxwu9xTlDmio1zIR0g.GIM-LPCKwAJzKCKhkEnj42DcRHHzvAuAMyyZqmMsdWIg.PNG.tlackseofl/%EC%9D%BC%EB%B0%98%EC%84%A4%EC%A0%95.png?type=w580)  
 
 설정 탭 > 설정... > 일반 설정 에서 설정할 수 있습니다.  
-<<<<<<< HEAD
 **지능형 따옴표** :  FocusWriter가 따옴표가 들어갈 만한 자리에 자동으로 따옴표를 넣어주는 기능입니다.  
 **타자기 소리** :  체크박스에 체크하면 작업화면에서 키 입력을 할 때 타자기 효과음이 출력됩니다. (스마트폰 효과음과 흡사)  
 **자동저장 기능** :  글쓰기 도중 FocusWriter가 예기치 못하게 닫혔을 경우 세션을 자동으로 저장해 주는 기능입니다.  
-=======
-지능형 따옴표는 FocusWriter가 따옴표가 들어갈 만한 자리에 자동으로 따옴표를 넣어주는 기능입니다.  
-타자기 소리 체크박스에 체크하면 작업화면에서 키 입력을 할 때 타자기 효과음이 출력됩니다. (스마트폰 효과음과 흡사)  
-자동저장 기능은 글쓰기 도중 FocusWriter가 예기치 못하게 닫혔을 경우 세션을 자동으로 저장해 주는 기능입니다.  
->>>>>>> 29286efe46ce02def8743e66f02f2bd7bf6231f9
 
 --------------------------------------------------------
 
@@ -219,7 +213,6 @@ docx: MS Word 파일
 ![enter image description here](http://postfiles11.naver.net/MjAxNzEyMDhfMjE5/MDAxNTEyNzM5NTM1NDU5.4vGhjrwymwnQ7tQ-WAYXU1jFZy1jggev3jlSOR3_YIEg.QZ1OPeNIca3gO8L4Hh1LOiMNBuRmg4y6BS9BHmltU3Eg.PNG.tlackseofl/%EC%96%91%EC%8B%9D.png?type=w580)
 **양식탭** :  문서의 전체적 양식을 설정할 수 있습니다.
 
-<<<<<<< HEAD
 ![enter image description here](http://postfiles1.naver.net/MjAxNzEyMDhfMjg0/MDAxNTEyNzM5NTQxMjY2.608sffx2dgUFv262iMmmyblTkCeAEsG6PEybZQ_t6Dcg.YQnUvYRFc3Ls6w_4MWdaPNpJoL_qrSOsV1EM9kFOE0sg.PNG.tlackseofl/%EB%8F%84%EA%B5%AC.png?type=w580)
 **도구탭** :  문서 작성에 유용한 도구들이 있습니다. (search, timer, etc...)
 
@@ -229,8 +222,6 @@ docx: MS Word 파일
 ![enter image description here](http://postfiles2.naver.net/MjAxNzEyMDhfMTM0/MDAxNTEyNzM5NTQ2MDAw.GYcZqCZSoJ9X8ibz69q53ESUUquAG3JkSc_p3Uh5wfYg.Aei4uClqB9hEtBWQDhTVNbCkmHSCIDRoZ-hlq3TyObcg.PNG.tlackseofl/%EB%8F%84%EC%9B%80%EB%A7%90.png?type=w580)
 **도움말 탭** : FocusWriter의 간단한 소개를 볼 수 있습니다.
 
-=======
->>>>>>> 29286efe46ce02def8743e66f02f2bd7bf6231f9
 --------------------------------------------------------------
 
 ## 4. **개선점**

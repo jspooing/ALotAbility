@@ -1,4 +1,4 @@
-﻿**![FocusWriter 로고](https://gottcode.org/focuswriter/icon48.png)FocusWriter 사용 설명서**
+**![FocusWriter 로고](https://gottcode.org/focuswriter/icon48.png)FocusWriter 사용 설명서**
 ============================
 [FocusWriter Github](https://github.com/gottcode/focuswriter.git)  
 
@@ -41,7 +41,7 @@ basic ODT = OpenDocument Text
 
 * **Linux**
  
- 1. 터미널을 열어서 (Ctrl+Alt+T) PPA:를 추가한다.
+ 1. 터미널을 열어서 (Ctrl+Alt+T) PPA:를 추가합니다.
 
 	   `sudo add-apt-repository ppa:gottcode/gcppa`
 	   
@@ -49,11 +49,11 @@ basic ODT = OpenDocument Text
 
 	![ppa추가](http://ubuntuhandbook.org/wp-content/uploads/2017/12/mame-ppa-600x73.jpg)
 
- 2.  Software Updater 를 실행한 후 FocusWriter에 체크를 한 후 Install을 한다.
+ 2.  Software Updater 를 실행한 후 FocusWriter에 체크를 한 후 Install을 합니다.
 
 		![Software Updater](http://ubuntuhandbook.org/wp-content/uploads/2016/08/upgrade-focuswriter.jpg)
 
-		또는 명령어를 통해서 설치가 가능하다.
+		또는 명령어를 통해서 설치가 가능합니다.
 		
 		`sudo apt update && sudo apt install focuswriter`
 
@@ -66,7 +66,7 @@ basic ODT = OpenDocument Text
  FocusWriter의 아주 심플한 기능중에서 이용자들이 FocusWriter를 선택하게 만든 첫번째 이유는 바로 테마 스킨(Skin)!!  
 
 * **테마 변경 법**  
-	설정탭에서 테마를 누르면 선택창에서 간단하게 바꿀 수 있다.  
+	설정탭에서 테마를 누르면 선택창에서 간단하게 바꿀 수 있습니다.  
 	![테마 변경 법](http://imageshack.com/a/img924/286/gdXe6V.png)  
 	
 	--------
@@ -124,7 +124,8 @@ rtf: 서식있는 텍스트
 odt: 오픈 도큐먼트 텍스트
 docx: MS Word 파일 
 
-개발사 웹사이트에서는 docx를 지원한다는 말은 없지만 불러오거나 저장을 할 수 있습니다. docx를 불러오면 그 안에 있는 텍스트만 가져옵니다. 이대로 docx로 저장하면 텍스트만 저장됩니다. 따라서 혹시라도 그림과 표가 들어있는 docx 파일을 불러와서 다시 저장하면 텍스트만 달랑 남게되는 사태가 발생하오니 주의하시기 바랍니다. - 구버전만 그러는듯.
+! 주의) 구 버전의 경우 docx파일 지원이 완전하지 않아 그림과 표를 불러오지 못하는 경우가 있습니다. 
+
 
 ----------------------
 
@@ -144,17 +145,20 @@ docx: MS Word 파일
 
 -------------------------------
 
-### *지능형 따옴표, 키 입력시 타자기 소리, 자동저장 기능 *
+
+### *지능형 따옴표, 키 입력시 타자기 소리, 자동저장기능*
+
 ![enter image description here](http://postfiles6.naver.net/MjAxNzEyMDhfMjc1/MDAxNTEyNjc0MzIxMDAw.nnQKTNSuUR9Mg4jwc241-CZRkmCxwu9xTlDmio1zIR0g.GIM-LPCKwAJzKCKhkEnj42DcRHHzvAuAMyyZqmMsdWIg.PNG.tlackseofl/%EC%9D%BC%EB%B0%98%EC%84%A4%EC%A0%95.png?type=w580)  
 
 설정 탭 > 설정... > 일반 설정 에서 설정할 수 있습니다.  
-지능형 따옴표는 FocusWriter가 따옴표가 들어갈 만한 자리에 자동으로 따옴표를 넣어주는 기능입니다.  
-타자기 소리 체크박스에 체크하면 작업화면에서 키 입력을 할 때 타자기 효과음이 출력됩니다. (스마트폰 효과음과 흡사)  
-자동저장 기능은 글쓰기 도중 FocusWriter가 예기치 못하게 닫혔을 경우 세션을 자동으로 저장해 주는 기능입니다.  
+**지능형 따옴표** :  FocusWriter가 따옴표가 들어갈 만한 자리에 자동으로 따옴표를 넣어주는 기능입니다.  
+**타자기 소리** :  체크박스에 체크하면 작업화면에서 키 입력을 할 때 타자기 효과음이 출력됩니다. (스마트폰 효과음과 흡사)  
+**자동저장 기능** :  글쓰기 도중 FocusWriter가 예기치 못하게 닫혔을 경우 세션을 자동으로 저장해 주는 기능입니다.  
 
 --------------------------------------------------------
 
-### *한국어 맞춤법 검사 기능 *
+
+### *한국어 맞춤법 검사 기능*
 ![enter image description here](http://postfiles16.naver.net/MjAxNzEyMDhfMjA2/MDAxNTEyNjcxNjM5Mjgz.E1ma_x8v67ViRhGC4rH0mVBxDdHDxD7wVaADh5qHgb0g.fKg9ZlJV6_GVMDpkVJFA7veeVtrR2ELKYs9bf9UFdAcg.PNG.tlackseofl/%EB%A7%9E%EC%B6%A4%EB%B2%95%EA%B2%80%EC%82%AC_-_%EB%B3%B5%EC%82%AC%EB%B3%B8.png?type=w580)  
 
 한국어 외에도 많은 언어의 맞춤법을 검사할 수 있습니다.
@@ -183,7 +187,7 @@ docx: MS Word 파일
 ![enter image description here](http://postfiles2.naver.net/MjAxNzEyMDhfMjI0/MDAxNTEyNjcxNjM5NDI0.3KW8VYpamIGgQygxcCCo4b8xb7AUhsPVfm6CJcSMsLAg.Xiv6nDAW6BPoHZciEaAGaOmjxW0u1Jf9UUJ2IXWT_4wg.PNG.tlackseofl/%EC%A7%80%EC%9B%90_%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C_-_%EB%B3%B5%EC%82%AC%EB%B3%B8.png?type=w580)  
 
 현존 모든 플랫폼에서 구동이 가능한 프로그램입니다.
-윈도우 타입의 포터블 버전은 USB메모리 등의 저장매체에 들어 있다면 컴퓨터에 문서작성 프로그램이 없어도 FocusWriter를 실행시킬 수 있게 합니다. 하지만 배경 테마 변경 기능과 다국어 지원 기능을 사용할 수 없습니다.
+윈도우 타입의 **포터블 버전**은 USB메모리 등의 저장매체에 들어 있다면 컴퓨터에 문서작성 프로그램이 없어도 FocusWriter를 실행시킬 수 있게 합니다. 하지만 배경 테마 변경 기능과 다국어 지원 기능을 사용할 수 없습니다.
 
 ---------------------------------------------------------------
 
@@ -200,9 +204,44 @@ docx: MS Word 파일
 설정 탭 > 설정... > 단축키 에서 설정 가능 합니다.
 기본 값으로 설정된 단축키를 확인할 수 있으며, 이것을 마음대로 수정하거나 단축키가 없는 기능에 단축키를 부여할 수 있습니다.
 
+-----------------------------------------------------------
 
+### *이 외의 기능들*
+![enter image description here](http://postfiles9.naver.net/MjAxNzEyMDhfMjA3/MDAxNTEyNzM5NTI0MjA2.jH5Sq7BkYwGkoe3QaamSVSW1-FSkDJj6Ooy9L3EBo0Eg.x6pJQLbQkcdgiEWjiFML_AY4xJK3cYnHPwrfEt0M2HUg.PNG.tlackseofl/%ED%8C%8C%EC%9D%BC.png?type=w580)
+
+**파일 탭** : 문서의 기본 관리를 할 수 있습니다. (new file, open, save, print, etc...)
+
+
+![enter image description here](http://postfiles13.naver.net/MjAxNzEyMDhfMjgg/MDAxNTEyNzM5NTI3OTIy.5q6HudORB2eaQVXL4mcwVTR69vrQY9JJKwC0s83O-Wgg.hN21vXJA0WY5l-a7YYr9Yf5__Rx4CNTa_iJQm5Rm05Ag.PNG.tlackseofl/%ED%8E%B8%EC%A7%91.png?type=w580)
+
+**편집 탭** : 기본적인 문서 편집 기능을 가지고 있습니다. (undo, redo, copy, paste, etc...)
+
+![enter image description here](http://postfiles11.naver.net/MjAxNzEyMDhfMjE5/MDAxNTEyNzM5NTM1NDU5.4vGhjrwymwnQ7tQ-WAYXU1jFZy1jggev3jlSOR3_YIEg.QZ1OPeNIca3gO8L4Hh1LOiMNBuRmg4y6BS9BHmltU3Eg.PNG.tlackseofl/%EC%96%91%EC%8B%9D.png?type=w580)
+
+**양식탭** :  문서의 전체적 양식을 설정할 수 있습니다.
+
+![enter image description here](http://postfiles1.naver.net/MjAxNzEyMDhfMjg0/MDAxNTEyNzM5NTQxMjY2.608sffx2dgUFv262iMmmyblTkCeAEsG6PEybZQ_t6Dcg.YQnUvYRFc3Ls6w_4MWdaPNpJoL_qrSOsV1EM9kFOE0sg.PNG.tlackseofl/%EB%8F%84%EA%B5%AC.png?type=w580)
+
+**도구탭** :  문서 작성에 유용한 도구들이 있습니다. (search, timer, etc...)
+
+![enter image description here](http://postfiles6.naver.net/MjAxNzEyMDhfMjAw/MDAxNTEyNzM5NTQzMzM0.JFTgJpNW2WROBK6aiGthSwaJidqBSt_IU7K_zO_6Wg0g.Ir2qMV_ChUoyPsrLDk_-jR7ATDwyMkgpCUhm_nc7tGUg.PNG.tlackseofl/%EC%84%A4%EC%A0%95.png?type=w580)
+
+**설정 탭** :  프로그램에 대한 설정을 할 수 있습니다.
+
+![enter image description here](http://postfiles2.naver.net/MjAxNzEyMDhfMTM0/MDAxNTEyNzM5NTQ2MDAw.GYcZqCZSoJ9X8ibz69q53ESUUquAG3JkSc_p3Uh5wfYg.Aei4uClqB9hEtBWQDhTVNbCkmHSCIDRoZ-hlq3TyObcg.PNG.tlackseofl/%EB%8F%84%EC%9B%80%EB%A7%90.png?type=w580)
+
+**도움말 탭** : FocusWriter의 간단한 소개를 볼 수 있습니다.
 
 --------------------------------------------------------------
 
-## 4. **개선점**
+## 4. **개선점**  
+이 프로그램을 사용하면서 사소하지만 다음과 같은 조금은 불편한 문제들이 몇가지 있었다.
 
+> 1. 가끔 영문에서 한글전환이 안됨 
+2. 타자음은 한글에서 제대로 지원안됨. 
+3. 글자를 쓸 때 한글이 가려지는 문제.  
+
+그러나 꾸준히 프로그램이 업데이트 되고 있기 때문에 앞으로 충분히 고쳐질 문제일 것이다.  
+  
+더 추가되었으면 하는 점이 있다면 단순 글쓰기 작업만이 아니라 프로그래머들이 코딩을 할 때도 집중 할 수 있는 기능이 있으면 좋겠다.  
+예를들어 다양한 프로그래밍 언어를 지원해줘서 코드에 하이라이팅 기능이 들어가거나 문법오류를 잡아주는 기능이 지원되면 좋을 것 같다.

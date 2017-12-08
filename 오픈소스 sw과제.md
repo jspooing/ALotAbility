@@ -208,6 +208,7 @@ docx: MS Word 파일
 
 **파일 탭** : 문서의 기본 관리를 할 수 있습니다. (new file, open, save, print, etc...)
 
+
 ![enter image description here](http://postfiles13.naver.net/MjAxNzEyMDhfMjgg/MDAxNTEyNzM5NTI3OTIy.5q6HudORB2eaQVXL4mcwVTR69vrQY9JJKwC0s83O-Wgg.hN21vXJA0WY5l-a7YYr9Yf5__Rx4CNTa_iJQm5Rm05Ag.PNG.tlackseofl/%ED%8E%B8%EC%A7%91.png?type=w580)
 
 **편집 탭** : 기본적인 문서 편집 기능을 가지고 있습니다. (undo, redo, copy, paste, etc...)

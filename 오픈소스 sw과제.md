@@ -145,7 +145,9 @@ docx: MS Word 파일
 
 -------------------------------
 
-### *지능형 따옴표, 키 입력시 타자기 소리, 자동저장 기능 *
+
+### *지능형 따옴표, 키 입력시 타자기 소리, 자동저장기능*
+
 ![enter image description here](http://postfiles6.naver.net/MjAxNzEyMDhfMjc1/MDAxNTEyNjc0MzIxMDAw.nnQKTNSuUR9Mg4jwc241-CZRkmCxwu9xTlDmio1zIR0g.GIM-LPCKwAJzKCKhkEnj42DcRHHzvAuAMyyZqmMsdWIg.PNG.tlackseofl/%EC%9D%BC%EB%B0%98%EC%84%A4%EC%A0%95.png?type=w580)  
 
 설정 탭 > 설정... > 일반 설정 에서 설정할 수 있습니다.  
@@ -155,7 +157,8 @@ docx: MS Word 파일
 
 --------------------------------------------------------
 
-### *한국어 맞춤법 검사 기능 *
+
+### *한국어 맞춤법 검사 기능*
 ![enter image description here](http://postfiles16.naver.net/MjAxNzEyMDhfMjA2/MDAxNTEyNjcxNjM5Mjgz.E1ma_x8v67ViRhGC4rH0mVBxDdHDxD7wVaADh5qHgb0g.fKg9ZlJV6_GVMDpkVJFA7veeVtrR2ELKYs9bf9UFdAcg.PNG.tlackseofl/%EB%A7%9E%EC%B6%A4%EB%B2%95%EA%B2%80%EC%82%AC_-_%EB%B3%B5%EC%82%AC%EB%B3%B8.png?type=w580)  
 
 한국어 외에도 많은 언어의 맞춤법을 검사할 수 있습니다.

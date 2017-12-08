@@ -205,21 +205,27 @@ docx: MS Word 파일
 
 ### *이 외의 기능들*
 ![enter image description here](http://postfiles9.naver.net/MjAxNzEyMDhfMjA3/MDAxNTEyNzM5NTI0MjA2.jH5Sq7BkYwGkoe3QaamSVSW1-FSkDJj6Ooy9L3EBo0Eg.x6pJQLbQkcdgiEWjiFML_AY4xJK3cYnHPwrfEt0M2HUg.PNG.tlackseofl/%ED%8C%8C%EC%9D%BC.png?type=w580)
+
 **파일 탭** : 문서의 기본 관리를 할 수 있습니다. (new file, open, save, print, etc...)
 
 ![enter image description here](http://postfiles13.naver.net/MjAxNzEyMDhfMjgg/MDAxNTEyNzM5NTI3OTIy.5q6HudORB2eaQVXL4mcwVTR69vrQY9JJKwC0s83O-Wgg.hN21vXJA0WY5l-a7YYr9Yf5__Rx4CNTa_iJQm5Rm05Ag.PNG.tlackseofl/%ED%8E%B8%EC%A7%91.png?type=w580)
+
 **편집 탭** : 기본적인 문서 편집 기능을 가지고 있습니다. (undo, redo, copy, paste, etc...)
 
 ![enter image description here](http://postfiles11.naver.net/MjAxNzEyMDhfMjE5/MDAxNTEyNzM5NTM1NDU5.4vGhjrwymwnQ7tQ-WAYXU1jFZy1jggev3jlSOR3_YIEg.QZ1OPeNIca3gO8L4Hh1LOiMNBuRmg4y6BS9BHmltU3Eg.PNG.tlackseofl/%EC%96%91%EC%8B%9D.png?type=w580)
+
 **양식탭** :  문서의 전체적 양식을 설정할 수 있습니다.
 
 ![enter image description here](http://postfiles1.naver.net/MjAxNzEyMDhfMjg0/MDAxNTEyNzM5NTQxMjY2.608sffx2dgUFv262iMmmyblTkCeAEsG6PEybZQ_t6Dcg.YQnUvYRFc3Ls6w_4MWdaPNpJoL_qrSOsV1EM9kFOE0sg.PNG.tlackseofl/%EB%8F%84%EA%B5%AC.png?type=w580)
+
 **도구탭** :  문서 작성에 유용한 도구들이 있습니다. (search, timer, etc...)
 
 ![enter image description here](http://postfiles6.naver.net/MjAxNzEyMDhfMjAw/MDAxNTEyNzM5NTQzMzM0.JFTgJpNW2WROBK6aiGthSwaJidqBSt_IU7K_zO_6Wg0g.Ir2qMV_ChUoyPsrLDk_-jR7ATDwyMkgpCUhm_nc7tGUg.PNG.tlackseofl/%EC%84%A4%EC%A0%95.png?type=w580)
+
 **설정 탭** :  프로그램에 대한 설정을 할 수 있습니다.
 
 ![enter image description here](http://postfiles2.naver.net/MjAxNzEyMDhfMTM0/MDAxNTEyNzM5NTQ2MDAw.GYcZqCZSoJ9X8ibz69q53ESUUquAG3JkSc_p3Uh5wfYg.Aei4uClqB9hEtBWQDhTVNbCkmHSCIDRoZ-hlq3TyObcg.PNG.tlackseofl/%EB%8F%84%EC%9B%80%EB%A7%90.png?type=w580)
+
 **도움말 탭** : FocusWriter의 간단한 소개를 볼 수 있습니다.
 
 --------------------------------------------------------------

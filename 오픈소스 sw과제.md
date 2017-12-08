@@ -1,4 +1,4 @@
-**![FocusWriter 로고](https://gottcode.org/focuswriter/icon48.png)FocusWriter 사용 설명서**
+﻿**![FocusWriter 로고](https://gottcode.org/focuswriter/icon48.png)FocusWriter 사용 설명서**
 ============================
 [FocusWriter Github](https://github.com/gottcode/focuswriter.git)  
 
@@ -113,21 +113,94 @@ Mac OS X: 설정 > 전체 화면
 전체화면 모드를 실행하면 화면에 메뉴와 방해 요소가 모두 제거 되고 종이와 깜빡이는 커서만 남아 있게 된다.  
 이제 집중해서 글만 작성 하면 된다.
 
---------------------------
-* TXT, 기본 RTF, 기본 ODT 파일 형식 지원
-* 하루 작업 목표 설정 기능
-* 스펠링 체킹(맞춤법 기능 – 한국어는 안될듯?) 
-* 다양한 테마
-* 타자기 소리(옵션)
-* 자동 저장(옵션)
-* 작업 통계(옵션)
-* 맞춤법 검사(옵션)
-* 여러 문서 편집 가능
-* 세션 관리
-* 지능형 따옴표
-* 포터블(무설치) 모드(옵션)
-* 다국어 메뉴(20개 언어 이상)
-* 모든 플랫폼 지원(윈도우,맥용Osx,리눅스)
+--------------------------------
+
+### *TXT, 기본 RTF, 기본 ODT 파일 형식 지원*
+
+![enter image description here](http://postfiles16.naver.net/MjAxNzEyMDhfMzQg/MDAxNTEyNjcxNjM5NDkw.i5LfS9i5iCzj9lbyYNPbwuNZGb7twCpLNrmOiDnZzUEg.t9hDBNTdfJ8Z3iZFnq3vv7vXQtNoEbpZUGsaruGTdywg.PNG.tlackseofl/%EC%A7%80%EC%9B%90%ED%95%98%EB%8A%94_%ED%98%95%EC%8B%9D.png?type=w580)  
+
+>txt: 일반 텍스트 파일
+rtf: 서식있는 텍스트
+odt: 오픈 도큐먼트 텍스트
+docx: MS Word 파일 
+
+개발사 웹사이트에서는 docx를 지원한다는 말은 없지만 불러오거나 저장을 할 수 있습니다. docx를 불러오면 그 안에 있는 텍스트만 가져옵니다. 이대로 docx로 저장하면 텍스트만 저장됩니다. 따라서 혹시라도 그림과 표가 들어있는 docx 파일을 불러와서 다시 저장하면 텍스트만 달랑 남게되는 사태가 발생하오니 주의하시기 바랍니다. - 구버전만 그러는듯.
+
+----------------------
+
+### *하루 작업 목표 설정 가능*
+
+![enter image description here](http://postfiles9.naver.net/MjAxNzEyMDhfMTMz/MDAxNTEyNjcxNjM5Mjk3.wvufMH8PCoVfH9gJGFLIWFYEas0rWGj2V-3uEe23A-0g._jZASh0g_0XQnKZfIS2lNscbY0GklXsrqvOBnE_ibPog.PNG.tlackseofl/%EC%98%A4%EB%8A%98%EC%9D%98_%EB%AA%A9%ED%91%9C.png?type=w580)  
+
+설정 탭 > 설정...  > 오늘의 목표 에서 목표 작업시간, 단어 개수 설정이 가능합니다. 
+
+![enter image description here](http://postfiles6.naver.net/MjAxNzEyMDhfODUg/MDAxNTEyNjcxNjM5NTE2.hilreOg8eU-RueHfKCsnaMBbjl6iFzMiNKaAbEuoxQwg.wBcgo6lqq3nMbuXpwKRRjuaz_CcKH6VWoxu4avHfdt0g.PNG.tlackseofl/%ED%86%B5%EA%B3%84_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EC%84%A4%EC%A0%95.png?type=w580)  
+
+통계에서는 단어와 페이지 수를 세는 알고리즘을 변경해서 목표 단어 수를 어떻게 셀지 정할 수 있습니다.
+
+![enter image description here](http://postfiles3.naver.net/MjAxNzEyMDhfMjQ4/MDAxNTEyNjcxNjM5NTAy.xQEQT8eL7CHdIGVkRxnLuglOF9HuGTUACStBgrTpS-kg.9wTIOOlQ-epZn6A9d3x6E09vJiqw3KwBELuVdhxEEvcg.JPEG.tlackseofl/%EC%98%A4%EB%8A%98_%EB%AA%A9%ED%91%9C%EC%9D%98_%ED%8D%BC%EC%84%BC%ED%8A%B8_LI.jpg?type=w580)  
+
+작업 화면에서 커서를 아래쪽에 가져가면 목표까지의 성취율을 확인할 수 있습니다.
+
+-------------------------------
+
+### *지능형 따옴표, 키 입력시 타자기 소리, 자동저장 기능 *
+![enter image description here](http://postfiles6.naver.net/MjAxNzEyMDhfMjc1/MDAxNTEyNjc0MzIxMDAw.nnQKTNSuUR9Mg4jwc241-CZRkmCxwu9xTlDmio1zIR0g.GIM-LPCKwAJzKCKhkEnj42DcRHHzvAuAMyyZqmMsdWIg.PNG.tlackseofl/%EC%9D%BC%EB%B0%98%EC%84%A4%EC%A0%95.png?type=w580)  
+
+설정 탭 > 설정... > 일반 설정 에서 설정할 수 있습니다.  
+지능형 따옴표는 FocusWriter가 따옴표가 들어갈 만한 자리에 자동으로 따옴표를 넣어주는 기능입니다.  
+타자기 소리 체크박스에 체크하면 작업화면에서 키 입력을 할 때 타자기 효과음이 출력됩니다. (스마트폰 효과음과 흡사)  
+자동저장 기능은 글쓰기 도중 FocusWriter가 예기치 못하게 닫혔을 경우 세션을 자동으로 저장해 주는 기능입니다.  
+
+--------------------------------------------------------
+
+### *한국어 맞춤법 검사 기능 *
+![enter image description here](http://postfiles16.naver.net/MjAxNzEyMDhfMjA2/MDAxNTEyNjcxNjM5Mjgz.E1ma_x8v67ViRhGC4rH0mVBxDdHDxD7wVaADh5qHgb0g.fKg9ZlJV6_GVMDpkVJFA7veeVtrR2ELKYs9bf9UFdAcg.PNG.tlackseofl/%EB%A7%9E%EC%B6%A4%EB%B2%95%EA%B2%80%EC%82%AC_-_%EB%B3%B5%EC%82%AC%EB%B3%B8.png?type=w580)  
+
+한국어 외에도 많은 언어의 맞춤법을 검사할 수 있습니다.
+개인 사전의 데이터를 맞춤법 검사에 동원하도록 추가할 수 있습니다.
+
+---------------------------------
+
+### *작업 통계 확인 기능*
+![enter image description here](http://postfiles13.naver.net/MjAxNzEyMDhfMTk1/MDAxNTEyNjc0MzA4Mzk3.oslB9Q2PJlDRPDEq7WNXbcTKT4eiZXGlPkjXMaLDJ3Ag.QDoS2_e3vzeyYjCFWqhUKouyqH_OLvp6hLe3nNx7AXkg.PNG.tlackseofl/%ED%95%98%EB%A3%A8_%EC%9E%91%EC%97%85%EB%9F%89.png?type=w580)  
+
+도구 탭 > 하루 진행량을 클릭하면 실행됩니다.
+지금까지 언제 작업했는지 확인이 가능한 기능입니다.
+
+----------------------------------------------
+
+### *지원하는 언어가 많음*  
+
+![enter image description here](http://postfiles14.naver.net/MjAxNzEyMDhfMyAg/MDAxNTEyNjc1MDM2ODc0.8uSzOmeBh0BFqTLCFhxYcuFy0NL8EevaCVJ2vu-lV0Ig.6i2uigHH9zl0sEdgi2VWolDwtw97CeFzDXH5XP0vu6Qg.PNG.tlackseofl/%EC%96%B8%EC%96%B4_%EC%84%A4%EC%A0%95.png?type=w580)  
+
+한국어, 일본어, 중국어, 영어 등등 엄청나게 많은 언어를 지원함.
+
+-----------------------------------
+
+### *모든 플랫폼 지원(윈도우,맥용Osx,리눅스)*  
+
+![enter image description here](http://postfiles2.naver.net/MjAxNzEyMDhfMjI0/MDAxNTEyNjcxNjM5NDI0.3KW8VYpamIGgQygxcCCo4b8xb7AUhsPVfm6CJcSMsLAg.Xiv6nDAW6BPoHZciEaAGaOmjxW0u1Jf9UUJ2IXWT_4wg.PNG.tlackseofl/%EC%A7%80%EC%9B%90_%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C_-_%EB%B3%B5%EC%82%AC%EB%B3%B8.png?type=w580)  
+
+현존 모든 플랫폼에서 구동이 가능한 프로그램입니다.
+윈도우 타입의 포터블 버전은 USB메모리 등의 저장매체에 들어 있다면 컴퓨터에 문서작성 프로그램이 없어도 FocusWriter를 실행시킬 수 있게 합니다. 하지만 배경 테마 변경 기능과 다국어 지원 기능을 사용할 수 없습니다.
+
+---------------------------------------------------------------
+
+### *여러 문서를 동시에 세션처럼 관리, 편집 가능*
+![enter image description here](http://postfiles5.naver.net/MjAxNzEyMDhfNzMg/MDAxNTEyNjc1OTQxNzE3.Wr686V4zpnyeSql4Ny8M9X4QjcFnMofXHu_iwcRH5c8g.Wu5rzYtRlQ9lq-GrMkGjMSUUZv_47WWcVjFIFCppUWEg.PNG.tlackseofl/%EC%84%B8%EC%85%98%EA%B4%80%EB%A6%AC.png?type=w580)  
+
+여러 문서를 동시에 편집 가능하며, 하단부에서 간편하게 문서와 문서 사이를 이동할 수 있습니다.
+
+---------------------------------------
+
+### *나만의 단축키 설정 가능*
+![enter image description here](http://postfiles5.naver.net/MjAxNzEyMDhfNzMg/MDAxNTEyNjcxNjM5NTMx.eSas1l24MHgTXvwdPXxqw6UGvSxEU3vRjGuRxGYlMY4g.rXRmRtzXatK-EUraqexwHUeaBDHKD-4LmHHE7cgTPNYg.PNG.tlackseofl/%ED%95%AB%ED%82%A4%EC%84%A4%EC%A0%95.png?type=w580)  
+
+설정 탭 > 설정... > 단축키 에서 설정 가능 합니다.
+기본 값으로 설정된 단축키를 확인할 수 있으며, 이것을 마음대로 수정하거나 단축키가 없는 기능에 단축키를 부여할 수 있습니다.
+
+
 
 --------------------------------------------------------------
 
